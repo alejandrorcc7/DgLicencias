@@ -54,6 +54,16 @@ header {
 .widget-title{
     color: rgb(0, 0, 0);
 }
+
+.card{
+width: 300px;
+height: 200px;
+background-color: rgba(255, 255, 0.5);
+border: 1px solid #ccc;
+border-radius: 10px;
+padding: 20px;
+box-shadow: 0 4px 8px rgba(43, 221, 7, 0.2);
+}
 .footer-3 {
     text-align: center;
     padding: 20px;
