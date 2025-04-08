@@ -56,18 +56,17 @@ header {
 }
 
 .card{
-width: 300px;
-height: 200px;
-background-color: rgba(255, 255, 0.5);
+
 border: 1px solid #ccc;
 border-radius: 10px;
 padding: 20px;
-box-shadow: 0 4px 8px rgba(43, 221, 7, 0.2);
+box-shadow: 0 4px 8px #48bc22;
 }
+
 .footer-3 {
     text-align: center;
     padding: 20px;
-    background: #007BFF;
+    background: #21cc5d;
     color: white;
     position: relative;
     bottom: 0;
